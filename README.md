@@ -1,4 +1,4 @@
-#httprequest  
+# httprequest  
 此为主密钥服务器  
 项目前期使用django框架http进行通讯，后期改为socket网络编程  
 目前仍然调用django orm进行操作  
