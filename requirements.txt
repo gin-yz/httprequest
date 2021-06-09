@@ -11,7 +11,7 @@ cffi==1.14.0
 chardet==3.0.4
 coincurve==13.0.0
 cytoolz==0.10.1
-Django==2.2.7
+Django==2.2.22
 django-celery-results==1.2.1
 eciespy==0.3.5
 eth-abi==2.1.1
