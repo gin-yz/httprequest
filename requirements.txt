@@ -15,7 +15,7 @@ Django==2.2.7
 django-celery-results==1.2.1
 eciespy==0.3.5
 eth-abi==2.1.1
-eth-account==0.4.0
+eth-account==0.5.9
 eth-hash==0.2.0
 eth-keyfile==0.5.1
 eth-keys==0.2.4
